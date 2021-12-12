@@ -4,4 +4,4 @@
 
 [Kafka partition assignment strategies](https://medium.com/streamthoughts/understanding-kafka-partition-assignment-strategies-and-how-to-write-your-own-custom-assignor-ebeda1fc06f3)
 
-[Kafka CLI Commands]()
+Kafka CLI Commands
